@@ -14,4 +14,5 @@ Gem::Specification.new do |gem|
   gem.version       = '0.1.1'
 
   gem.add_runtime_dependency 'vagrant'
+  gem.add_development_dependency 'rake'
 end
